@@ -20,7 +20,7 @@ Olá! Sou Maria Gabriela, graduada e mestranda em Serviço Social na UFSC. Sempr
 ### 🎀 Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-ec63a1?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielamaria.ufsc@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-ec63a1?style=for-the-badge)](https://www.dio.me/users/gabriela_maria131)
-[![Currículo Lattes](https://buscatextual.cnpq.br/buscatextual/images/titulo-sistema.png)](http://lattes.cnpq.br/7154450451723185)
+[![Currículo Lattes](https://img.shields.io/badge/-Curr%C3%ADculo_Lattes-ec63a1?style=for-the-badge)](http://lattes.cnpq.br/7154450451723185)
 
 
 
